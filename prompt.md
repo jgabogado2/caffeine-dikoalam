@@ -35,4 +35,15 @@ It bridges the gap between **event organizers** who need reliable volunteers and
 
 ---
 
-### 5. Smar
+### 5. Smart Notifications
+- Alerts users about **new events** matching their preferences or **last-minute volunteer calls**.
+
+---
+
+## 🧩 Optional Add-ons
+
+- **Integration with LinkedIn:** Auto-sync volunteering credentials.  
+- **Gamification:** Badges for volunteer milestones.  
+- **AI-based Recommendations:** Predict what events a user will enjoy or be most useful in.
+
+---
